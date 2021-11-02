@@ -1,6 +1,6 @@
 # email-verifier
 
-A tool for email verification
+A basic toolfor email verification
 
 Email verification tools automatically validate the authenticity of email addresses to help minimize bounce rates. They filter out incorrect addresses to increase deliverability and improve the performance of email campaigns.
 
